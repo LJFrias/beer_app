@@ -1,4 +1,4 @@
-import Beers from './components/Beer'
+import Beers from './components/Beers'
 
 import './App.css';
 
